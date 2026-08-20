@@ -1,0 +1,206 @@
+{
+  "name": "George Saju",
+  "title": "Senior Support Engineer | Data Scientist | AI/ML Specialist",
+  "photo": "/photo.jpg",
+  "hero": {
+    "badge": "Senior Support Engineer @ Happiest Minds Technologies",
+    "tagline": "Data Scientist and Senior Support Engineer with 3+ years of experience across data science, software engineering, scientific data processing, and AI-powered solutions. I specialize in Python, data analytics, machine learning, Generative AI, LLM applications, API development, and scalable data processing.",
+    "stats": [
+      { "number": "3+", "label": "Years Experience" },
+      { "number": "15+", "label": "ML Models Deployed" },
+      { "number": "6", "label": "Featured Projects" },
+      { "number": "5", "label": "Certifications" }
+    ]
+  },
+  "about": {
+    "title": "Building intelligent solutions at the intersection of data, AI, and engineering",
+    "paragraphs": [
+      "I'm a Certified Data Scientist and Senior Support Engineer with 3+ years of experience working across data science, software engineering, scientific data processing, application support, and AI-powered solutions. Currently, I work at Happiest Minds Technologies as a Senior Support Engineer, supporting Dotmatics applications and helping troubleshoot, analyze, and resolve complex technical issues in a scientific software environment.",
+      "My technical background combines data science and software engineering, with strong expertise in Python, Pandas, Polars, NumPy, SQL, Apache Spark, FastAPI, machine learning, Generative AI, and LLM-based applications. I have experience working with scientific and analytical data, developing data processing solutions, building parsers for complex instrument data, creating REST APIs, and designing automated workflows that improve data accessibility and processing efficiency.",
+      "I also have hands-on experience with Generative AI and LLM technologies, including prompt engineering, AI automation, structured AI workflows, and Retrieval-Augmented Generation (RAG) pipelines that combine vector-based search with LLMs for context-aware querying and intelligent knowledge retrieval.",
+      "My experience spans the complete data and application lifecycle — from data extraction, preprocessing, transformation, analysis, and visualization to API development, troubleshooting, automation, and deployment-oriented engineering. I use tools such as Matplotlib and Seaborn to transform complex datasets into meaningful insights and actionable information.",
+      "Beyond technical implementation, I value problem-solving, continuous learning, documentation, and building solutions that are reliable, maintainable, scalable, and practical. My current focus is expanding my expertise in AI engineering, Generative AI, LLM applications, automation, and data engineering while continuing to strengthen my software engineering and cloud-related capabilities."
+    ],
+    "highlights": [
+      "End-to-End ML Development",
+      "Scalable Data Pipelines",
+      "Scientific Instrument Data Parsing",
+      "LLM Integration & RAG",
+      "REST API Development",
+      "Business Storytelling"
+    ]
+  },
+  "skills": {
+    "categories": [
+      {
+        "title": "Core ML & AI",
+        "skills": [
+          { "name": "Python", "level": "Expert · 3+ years", "proficiency": 0.95 },
+          { "name": "Machine Learning", "level": "Expert · scikit-learn", "proficiency": 0.9 },
+          { "name": "Deep Learning", "level": "Advanced · PyTorch", "proficiency": 0.82 },
+          { "name": "Generative AI & LLMs", "level": "Advanced · GPT, RAG", "proficiency": 0.87 },
+          { "name": "Predictive Analytics", "level": "Advanced · Feature Engineering", "proficiency": 0.85 }
+        ]
+      },
+      {
+        "title": "Data Engineering & Big Data",
+        "skills": [
+          { "name": "Data Processing", "level": "Expert · Pandas, Polars, NumPy", "proficiency": 0.94 },
+          { "name": "PySpark", "level": "Advanced · Distributed Processing", "proficiency": 0.85 },
+          { "name": "ETL Pipelines", "level": "Advanced · Cleaning & Transformation", "proficiency": 0.88 },
+          { "name": "FastAPI", "level": "Advanced · REST API Development", "proficiency": 0.87 }
+        ]
+      },
+      {
+        "title": "Databases & Querying",
+        "skills": [
+          { "name": "SQL", "level": "Expert · MySQL, PostgreSQL", "proficiency": 0.92 },
+          { "name": "MongoDB", "level": "Intermediate · NoSQL", "proficiency": 0.75 }
+        ]
+      },
+      {
+        "title": "Analytics & Visualization",
+        "skills": [
+          { "name": "Data Visualization", "level": "Advanced · Matplotlib, Seaborn", "proficiency": 0.88 },
+          { "name": "Exploratory Data Analysis", "level": "Advanced · Statistical Insights", "proficiency": 0.9 }
+        ]
+      },
+      {
+        "title": "Domain & Specialized Skills",
+        "skills": [
+          { "name": "Scientific Data Processing", "level": "Advanced · NMR, HPLC, GC-MS Parsing", "proficiency": 0.85 }
+        ]
+      },
+      {
+        "title": "Tools & Technologies",
+        "skills": [
+          { "name": "Git & GitHub", "level": "Advanced · Version Control", "proficiency": 0.85 },
+          { "name": "Jupyter Notebook", "level": "Expert · Experimentation", "proficiency": 0.95 }
+        ]
+      }
+    ]
+  },
+  "experience": [
+    {
+      "period": "April 2026 — Present",
+      "location": "Chennai, India",
+      "role": "Senior Support Engineer",
+      "company": "Happiest Minds Technologies",
+      "companyType": "IT Services",
+      "achievements": [
+        "Support Dotmatics applications in a scientific software environment, troubleshooting, analyzing, and resolving complex technical issues.",
+        "Apply data science and engineering background to diagnose issues across scientific data systems and improve resolution efficiency."
+      ]
+    },
+    {
+      "period": "January 2023 — April 2026",
+      "location": "Chennai, India",
+      "role": "Analyst | Data Scientist",
+      "company": "Zifo Technologies Pvt. Ltd.",
+      "companyType": "Pharmaceutical Research",
+      "achievements": [
+        "Designed and developed high-performance data pipelines using Pandas, Polars, and NumPy, achieving a 40% reduction in processing time through optimized transformations.",
+        "Built and maintained custom parsers for scientific instruments including NMR, HPLC, and GC-MS, automating data extraction workflows and reducing manual effort by 80%.",
+        "Developed and optimized RESTful APIs using FastAPI for instrument and ELN integrations, delivering 60% faster data retrieval compared to legacy implementations.",
+        "Created interactive dashboards and analytical reports using Matplotlib and Seaborn, contributing to a 20% improvement in operational efficiency.",
+        "Implemented machine learning models and predictive analytics for scientific data processing, applying feature engineering techniques to enhance model performance.",
+        "Developed Retrieval-Augmented Generation (RAG) pipelines integrating vector-based search with LLMs for context-aware querying and intelligent knowledge retrieval."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science (M.Sc.) in Chemistry",
+      "institution": "Mahatma Gandhi University, Kerala",
+      "year": "2022"
+    },
+    {
+      "degree": "Bachelor of Science (B.Sc.) in Chemistry",
+      "institution": "Mahatma Gandhi University, Kerala",
+      "year": "2020"
+    }
+  ],
+  "certifications": [
+    { "name": "Certified Data Scientist", "org": "Illinois University" },
+    { "name": "Scientific Data Analysis & Parser Development", "org": "Zifo" },
+    { "name": "Project Management & Agile Training", "org": "Zifo" },
+    { "name": "Leadership & People Management Training", "org": "Zifo" },
+    { "name": "Time Management & Productivity Training", "org": "Zifo" }
+  ],
+  "projects": [
+    {
+      "title": "Morning Brew → LinkedIn AI Content Automation",
+      "type": "AI Automation · Generative AI · API Integration",
+      "problem": "Reading daily newsletters, identifying important insights, and converting them into meaningful LinkedIn content can be time-consuming. There was a need for an automated workflow that could retrieve newsletter content, extract key information, generate insights, and create a LinkedIn-ready post while keeping a human review step before publishing.",
+      "approach": "Developed a Python-based AI automation pipeline that integrates with the Gmail API to retrieve the latest Morning Brew newsletter, processes and cleans the email content, and uses Google Gemini to analyze the information and generate structured insights. The system extracts key facts, entities, and the main insight before generating a concise LinkedIn-ready post. The generated output is parsed and saved separately for analysis and human review.",
+      "metrics": [
+        "Automated Morning Brew email retrieval and content extraction",
+        "Generated structured AI analysis including key facts, entities, and insights",
+        "Automated LinkedIn-ready content generation",
+        "Implemented structured AI response parsing for reliable downstream processing",
+        "Reduced manual effort involved in converting newsletter content into social media content",
+        "Maintained human review before final publishing"
+      ],
+      "stack": ["Python", "Gmail API", "Google Gemini API", "Google GenAI SDK", "BeautifulSoup", "OAuth 2.0", "Prompt Engineering"],
+      "year": "2026",
+      "github": "https://github.com/GeorgeSaju07/morning-brew-ai-automation"
+    },
+    {
+      "title": "Hand Gesture-Based Brightness Control System",
+      "type": "Computer Vision · AI",
+      "problem": "Traditional screen brightness adjustment methods rely on manual controls, leading to poor user experience and inefficiency. There was a need for an intuitive, touch-free solution that enables real-time brightness control using natural hand gestures.",
+      "approach": "Developed a real-time computer vision system using OpenCV and Mediapipe to detect and track hand landmarks. Implemented gesture recognition by calculating the distance between thumb and index finger, and applied interpolation techniques to dynamically map gesture distance to system brightness levels. Integrated Screen Brightness Control (SBC) for seamless cross-platform brightness adjustment.",
+      "metrics": ["Real-time processing (30+ FPS)", "Smooth brightness transition", "Cross-platform compatibility"],
+      "stack": ["Python", "OpenCV", "MediaPipe", "NumPy", "Screen Brightness Control (SBC)"],
+      "year": "2024",
+      "github": "https://github.com/GeorgeSaju07/HandGesture-Brightness"
+    },
+    {
+      "title": "Oral Cancer Prediction using Machine Learning",
+      "type": "End-to-End ML · Healthcare AI",
+      "problem": "Early detection of oral cancer is critical for improving patient outcomes, yet traditional diagnostic approaches can be time-consuming and dependent on manual evaluation. There was a need for a data-driven system to predict oral cancer risk using patient demographics, lifestyle factors, and clinical indicators.",
+      "approach": "Developed an end-to-end machine learning pipeline using scikit-learn to process and model 84,000+ patient records. Implemented data preprocessing with missing value imputation and one-hot encoding, followed by automated feature selection using SelectFromModel with Gradient Boosting. Trained a GradientBoostingClassifier with stratified data splitting to ensure balanced class distribution and robust model performance.",
+      "metrics": ["Dataset: 84,000+ records", "Robust classification performance", "Improved early risk prediction capability"],
+      "stack": ["Python", "Pandas", "NumPy", "Scikit-learn", "Matplotlib", "Seaborn"],
+      "year": "2024",
+      "github": "https://github.com/GeorgeSaju07/Oral_Cancer_ML_Project"
+    },
+    {
+      "title": "Weather Data Analysis & Ozone Insights (EDA)",
+      "type": "Exploratory Data Analysis · Data Science",
+      "problem": "Understanding the relationship between atmospheric variables and ozone levels is critical for environmental monitoring and air quality assessment. However, raw weather data often lacks clear insights without proper statistical analysis and visualization.",
+      "approach": "Performed comprehensive exploratory data analysis on weather data, including data cleaning, preprocessing, and statistical evaluation. Applied visualization techniques such as distribution plots, boxplots, correlation heatmaps, and pairplots to uncover relationships between variables like temperature, solar radiation, wind speed, and ozone levels.",
+      "metrics": ["Identified strong positive correlation between temperature and ozone", "Detected negative correlation between wind speed and ozone levels", "Derived actionable environmental insights from multi-variable analysis"],
+      "stack": ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
+      "year": "2024",
+      "github": "https://github.com/GeorgeSaju07/Weather_Exploratory_Data_Analysis"
+    },
+    {
+      "title": "Python Screen Recorder",
+      "type": "Automation · Video Processing",
+      "problem": "Recording screen activities for tutorials, presentations, debugging, and documentation often requires heavy software with complex setups. There was a need for a lightweight, efficient, and customizable screen recording solution built using Python.",
+      "approach": "Developed a real-time screen recording application using PyAutoGUI for screen capture and OpenCV for video processing and encoding. Implemented frame-by-frame capture and conversion into video format with adjustable FPS. Integrated keyboard-based controls to start and stop recording efficiently while maintaining performance and video quality.",
+      "metrics": ["Real-time screen capture", "Adjustable frame rate (FPS)", "High-quality video output", "Lightweight and efficient execution"],
+      "stack": ["Python", "OpenCV", "NumPy", "PyAutoGUI", "Keyboard"],
+      "year": "2024",
+      "github": "https://github.com/GeorgeSaju07/Screen_Recorder_Using_Python"
+    },
+    {
+      "title": "CSV to Parquet Conversion using Python",
+      "type": "Data Engineering · Data Processing",
+      "problem": "CSV files are widely used but inefficient for large-scale data processing due to larger file sizes and slower read performance. There was a need for a more optimized storage format to improve data processing speed and scalability.",
+      "approach": "Developed a Python-based solution using Pandas along with PyArrow and Fastparquet to convert CSV files into Apache Parquet format. Leveraged columnar storage and compression techniques to significantly reduce file size and enhance read performance for analytics and machine learning workflows.",
+      "metrics": ["Reduced file size using compression", "Faster data read performance", "Optimized for large-scale data processing", "Improved efficiency for analytics workloads"],
+      "stack": ["Python", "Pandas", "PyArrow", "Fastparquet"],
+      "year": "2024",
+      "github": "https://github.com/GeorgeSaju07/Apache-Parquet-File-"
+    }
+  ],
+  "contact": {
+    "message": "Whether you're hiring a Data Scientist, have a complex ML problem to solve, or just want to talk about AI — my inbox is open. I typically reply within 24 hours.",
+    "email": "georgesaju90@gmail.com",
+    "resume": "/Resume.pdf",
+    "linkedin": "https://www.linkedin.com/in/george-saju-a9a0a71b7/",
+    "github": "https://github.com/GeorgeSaju07"
+  }
+}
